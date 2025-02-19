@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Akzidenz';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/akzidenz/AkzidenzGroteskPro-Regular.otf');
+}
+
+@font-face {
+    font-family: 'Akzidenz';
+    font-style: normal;
+    font-weight: 500;
+    src: url('/fonts/akzidenz/AkzidenzGroteskPro-Md.otf');
+}
+
+@font-face {
+    font-family: 'Akzidenz';
+    font-style: normal;
+    font-weight: 900;
+    src: url('/fonts/akzidenz/AkzidenzGroteskPro-BoldEx.otf');
+}
+
+html {
+    font-family: 'Akzidenz', sans-serif;
+}
